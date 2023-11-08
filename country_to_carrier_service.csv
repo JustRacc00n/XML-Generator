@@ -1,0 +1,96 @@
+Country - code;Carrier;Service
+Austria - 040;Austrian Post ;Home Delivery - 5 - NULL
+Austria - 040;Austrian Post;Home Delivery - 5 - B
+Austria - 040;DHL ;Express Worldwide - 5 - NULL
+Austria - 040;DHL;Parcel Connect Europe - 6 - NULL
+Belgium - 056;DHL ;Express Worldwide - 5 - NULL
+Belgium - 056;BPost;Home delivery B2C - 24 - NULL
+Belgium - 056;BPost;Home delivery B2C - 24 - B
+Belgium - 056;BPost;Service Point - 24 - S
+Belgium - 056;BPost;Service Point - 29 - S
+Belgium - 056;BPost;24h Pro - 29 - NULL
+Belgium - 056;BPost;Parcel locker - 29 - O
+Denmark - 208;DHL ;Express Worldwide - 5 - NULL
+Denmark - 208;GLS;Servicepoint (SHOPDELIVERY) - 17 - S
+Denmark - 208;Postnord;MyPack Home - 21 - NULL
+Denmark - 208;Postnord;MyPack Collect - 21 - S
+Denmark - 208;Postnord;PostNord Parcel - 22 - B
+Finland - 246;DHL ;Express Worldwide - 5 - NULL
+Finland - 246;Bring;Business Parcel Bulk - 12 - B
+Finland - 246;Bring;Pickup Parcel Bulk - 12 - S
+Finland - 246;Posti;Pickup Parcel Bulk - 12 - NULL
+France - 250;DHL;DHL Parcel InternationalÃÂÃÂ Premium - 5 - NULL
+France - 250;DHL;DHL Parcel InternationalÃÂÃÂ Premium - 5 - B
+France - 250;Relais Colis;Relais Colis - 5 - S
+France - 250;DHL ;Express Worldwide - 5 - NULL
+France - 250;DHL ;Express Worldwide - 526 - NULL
+France - 250;La Poste;Home Delivery - 26 - NULL
+France - 250;La Poste;Servicepoint - 26 - S
+France - 250;La Poste;Home Delivery - 26 - B
+Germany - 276;Hermes;Wunchpaketshop - 1 - S
+Germany - 276;Hermes;HaustÃÂÃÂ¼rzustellung - 1 - NULL
+Germany - 276;Hermes;Eilservice - 1 - NULL
+Germany - 276;DHL;DHL PAKET - 5 - NULL
+Germany - 276;DHL;DHL PAKET - 5 - B
+Germany - 276;DHL;Paketshop - 5 - S
+Germany - 276;DHL;Express Worldwide - 5 - NULL
+Greece - 300;DHL;Parcel Connect Europe - 6 - NULL
+Ireland - 372;DHL;DHL Parcel InternationalÃÂÃÂ Premium - 5 - NULL
+Ireland - 372;DHL;DHL Parcel InternationalÃÂÃÂ Premium - 5 - B
+Ireland - 372;DHL;Parcel Connect Europe - 6 - NULL
+Ireland - 372;DHL ;Express Worldwide - 5 - NULL
+Ukraine - 380;DHL;DHL Parcel InternationalÃÂÃÂ Premium - 5 - NULL
+Ukraine - 380;DHL;DHL Parcel InternationalÃÂÃÂ Premium - 5 - B
+Ukraine - 380;DHL;Parcel Connect Europe - 6 - NULL
+Ukraine - 380;DHL ;Express Worldwide - 5 - NULL
+Luxembourg - 442;DHL;Parcel Connect Europe - 6 - NULL
+Netherlands - 528;DHL ;Express Worldwide - 5 - NULL
+Netherlands - 528;DHL ;Next Day - 7 - NULL 
+Netherlands - 528;DHL ;Servicepoint - 7 - S 
+Netherlands - 528;PostNL;Pakket - 23 - B
+Netherlands - 528;PostNL;Pakket - 23 - NULL
+Netherlands - 528;PostNL;Same Day - 23 - B
+Netherlands - 528;PostNL ;Pakjegemak - 23 - O
+Netherlands - 528;Pickup; - 98 - NULL
+Norway - 578;Bring;Pickup Parcel Bulk - 14 - S
+Norway - 578;Bring;Pickup Parcel Bulk - 14 - NULL
+Norway - 578;Bring;Business Parcel Bulk - 14 - B
+Poland - 616;InPost;Kurier InPost (Home Delivery) - 510 - NULL
+Poland - 616;InPost;Paczkomaty 24/7 (Parcel Locker) - 510 - S
+Poland - 616;DHL Poland;Standard Domestic - 511 - 
+Portugal - 620;DHL;Parcel Connect Europe - 6 - NULL
+Spain - 724;Correos;Service Point - 5 - S
+Spain - 724;Correos;Home Delivery - 5 - NULL
+Spain - 724;Correos;Home Delivery - 25 - NULL
+Spain - 724;Correos;Service Point - 25 - S
+Spain - 724;Correos;Priority Home Delivery - 27 - NULL
+Spain - 724;Correos;Service Point - 27 - S
+Spain - 724;DHL ;Express Worldwide - 5 - NULL
+Spain - 724;DHL ;Parcel Connect Europe Servicepoint - 6 - S 
+Spain - 724;DHL ;Express Worldwide - 25 - NULL
+Spain - 724;DHL ;Express Worldwide - 527 - NULL
+Spain - 724;DHL;Parcel Connect Europe - 6 - NULL
+Sweden - 752;DHL ;Express Worldwide - 5 - NULL
+Sweden - 752;Bring;Business Parcel Bulk - 12 - B
+Sweden - 752;DHL;Pickup Business Parcel Bulk - 12 - S
+Sweden - 752;DHL;Pickup Business Parcel Bulk - 12 - NULL
+Sweden - 752;Postnord;MyPack Collect - 22 - S
+Germany - 756;Swiss Post;Standard - 16 - S
+Germany - 756;Swiss Post;PostPac Economy - 16 - NULL
+Germany - 756;Swiss Post;PostPac Economy - 16 - B
+Germany - 756;Swiss Post;Standard - 16 - NULL
+Germany - 756;Swiss Post;Priority Home Delivery - 28 - S
+Germany - 756;Swiss Post;Priority Home Delivery - 28 - NULL
+Germany - 756;Swiss Post;Priority Home Delivery - 28 - B
+Germany - 756;Swiss Post;Priority Home Delivery - 28 - NULL
+Germany - 756;DHL;DHL Parcel InternationalÃÂÃÂ Premium - 5 - NULL
+Germany - 756;DHL;DHL PAKET - 5 - S
+United Kingdom - 826;Hermes UK;Home Delivery - 13 - NULL
+United Kingdom - 826;UPS;Standard - 11 - B
+United Kingdom - 826;Collect+;Servicepoint - 5 - S
+United Kingdom - 826;DHL ;Express Worldwide - 5 - NULL
+United Kingdom - 826;Heyworld;Home Delivery - 600 - NULL
+United Kingdom - 826;Pro Carrier;Pro Carrier UK 24 - 601 - B
+United Kingdom - 826;Pro Carrier;Pro Carrier UK 48 - 601 - NULL
+United States - 840;Heyworld;Home Delivery - 600 - NULL
+United States - 840;Pro Carrier;Pro Carrier Plus - 601 - NULL

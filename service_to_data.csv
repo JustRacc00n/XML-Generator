@@ -1,0 +1,67 @@
+Service;i_carrier;c_delivery;c_shipto
+Home Delivery - 5 - NULL;5;0;0
+Home Delivery - 5 - B;5;0;B
+Express Worldwide - 5 - NULL;5;1;0
+Parcel Connect Europe - 6 - NULL;6;0;0
+Home delivery B2C - 24 - NULL;24;0;0
+Home delivery B2C - 24 - B;24;0;B
+Service Point - 24 - S;24;0;S
+Service Point - 29 - S;29;0;S
+24h Pro - 29 - NULL;29;0;0
+Parcel locker - 29 - O;29;0;O
+Servicepoint (SHOPDELIVERY) - 17 - S;17;0;S
+MyPack Home - 21 - NULL;21;0;0
+MyPack Collect - 21 - S;21;0;S
+PostNord Parcel - 22 - B;22;0;B
+Business Parcel Bulk - 12 - B;12;0;B
+Pickup Parcel Bulk - 12 - S;12;0;S
+Pickup Parcel Bulk - 12 - NULL;12;0;0
+DHL Parcel International Premium - 5 - NULL;5;0;0
+DHL Parcel International Premium - 5 - B;5;0;B
+Relais Colis - 5 - S;5;0;S
+Home Delivery - 26 - NULL;26;0;0
+Servicepoint - 26 - S;26;0;S
+Home Delivery - 26 - B;26;0;B
+Express Worldwide - 526 - NULL;526;1;0
+Wunchpaketshop - 1 - S;1;0;S
+Haustürzustellung - 1 - NULL;1;0;0
+Eilservice - 1 - NULL;1;1;0
+DHL PAKET - 5 - NULL;5;0;0
+DHL PAKET - 5 - B;5;0;B
+Paketshop - 5 - S;5;0;S
+Pakket - 23 - B;23;0;B
+Pakket - 23 - NULL;23;0;0
+Pakjegemak - 23 - O;23;0;O
+Same Day - 23 - B;23;1;B
+ - 98 - NULL;98;0;0
+Pickup Parcel Bulk - 14 - S;14;0;S
+Pickup Parcel Bulk - 14 - NULL;14;0;0
+Business Parcel Bulk - 14 - B;14;0;B
+Kurier InPost (Home Delivery) - 510 - NULL;510;0;0
+Paczkomaty 24/7 (Parcel Locker) - 510 - S;510;0;S
+Standard Domestic - 511 - ;511;;0
+Service Point - 5 - S;5;0;S
+Parcel Connect Europe Servicepoint - 6 - S;6;0;S
+Home Delivery - 25 - NULL;25;0;0
+Service Point - 25 - S;25;0;S
+Express Worldwide - 25 - NULL;25;1;0
+Priority Home Delivery - 27 - NULL;27;0;0
+Service Point - 27 - S;27;0;S
+Express Worldwide - 527 - NULL;527;1;0
+Pickup Business Parcel Bulk - 12 - S;12;0;S
+Pickup Business Parcel Bulk - 12 - NULL;12;0;0
+MyPack Collect - 22 - S;22;0;S
+Standard - 16 - S;16;0;S
+PostPac Economy - 16 - NULL;16;0;0
+PostPac Economy - 16 - B;16;0;B
+Standard - 16 - NULL;16;1;0
+DHL PAKET - 5 - S;5;0;S
+Priority Home Delivery - 28 - S;28;0;S
+Priority Home Delivery - 28 - NULL;28;1;0
+Priority Home Delivery - 28 - B;28;0;B
+Home Delivery - 13 - NULL;13;0;0
+Standard - 11 - B;11;0;B
+Home Delivery - 600 - NULL;600;0;0
+Pro Carrier UK 24 - 601 - B;601;0;B
+Pro Carrier UK 48 - 601 - NULL;601;0;0
+Pro Carrier Plus - 601 - NULL;601;0;0
